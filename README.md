@@ -8,6 +8,7 @@ Udacity Data Analyst Degree - Python Project: Bikeshare
 I am going to analyse the bike share data of 3 chosen cities using Python.
 My code is going to answer some questions depending on the city, the month and
 the day you choose.
+Cities are Chicago, New York City and Washington
 
 ### Files used
 bikeshare.py - I use Atom as text editor.
