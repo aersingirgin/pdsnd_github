@@ -16,3 +16,4 @@ csv files for the cities which I don't commit to github.
 
 ### Credits
 Thanks to Udacity Python Project Template
+Git Guides: https://github.com/git-guides/
