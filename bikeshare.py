@@ -32,7 +32,9 @@ def get_filters():
 
 
     # get user input for month (all, january, february, ... , june)
-
+    """
+    Month will be selected here. - A.Ersin note for SECTION IV: Refactor Code
+    """
     while True:
         month=input("\nPlease enter one month: january, february, march, april, may, june or all\n").lower()
         if month in('january','february','march','april','may','june','all'):
